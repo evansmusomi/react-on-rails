@@ -54,3 +54,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Adds reactjs
 gem 'react-rails'
+
+# Adds haml support
+gem 'haml'
